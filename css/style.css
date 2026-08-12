@@ -48,6 +48,12 @@ footer {
     justify-content: space-between;
     align-items: center;
     z-index: 1000;
+    justify-content: center;
+}
+footer p {
+    font-size: 14px;
+    color: #333;
+    
 }
 
 form {
